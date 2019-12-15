@@ -1,0 +1,9 @@
+Before implementing the design of printed circuit board of the power bank, it is 
+highly recommended that schematics of the circuit must be run successfully. This 
+is because when you are having error free running simulations of the circuitry, you 
+can make the connections easily in its PCB design and have an error free connections.
+ 
+You are required to place the traces for the circuit and meanwhile you will place the 
+components that you require in the circuit. For example, either you place all the 
+components for the design, and then connect each component or first place the traces 
+and then place vias for the components. All it depends on your own need and ease.

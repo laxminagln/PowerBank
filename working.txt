@@ -1,0 +1,9 @@
+The main circuit diagram of the project has two main portions, one being 
+the power bank charging circuitry and the other being DC to DC converter. 
+The charging circuitry is being made with TP4056 and the converter is made 
+with the XL6009. The converter is for boosting the voltage from 3.7V to 
+4.5V or 6V as required by the cell phone. The voltages are variated through 
+a potentiometer to get the required level. The micro USB pin is used for 
+the charging of the lithium cell (18650) and a female USB connector is 
+utilized for the charging of the phone. Sliding Switch is also used for 
+the altering the charging mode of the 18650 cell of the phone.

@@ -1,0 +1,19 @@
+There are numerous ways through which you can make the power bank circuit 
+e.g. one of the easiest way is to use a boost converter for making the power bank. 
+However, one of other easy way to make the power bank circuit is by using different 
+modules which can be used for the charging of the cell phone.
+
+The components required are:
+PCB board
+IC TP4056
+XL 6009
+Inductors (33uH)
+Female connector (USB)
+Charging pin (Female/Mini USB)
+Burg stick
+Capacitors (1uF, 10uF, 220uF, 100uF, and 47uF)
+Variable resistor of 5K ohms.
+Lithium Cell 18650
+LEDs
+Diodes 1N5824
+Resistors (1K ohm, and 1,2 K ohms) 
